@@ -1,23 +1,45 @@
 # Outlook Valid Email Checker
 
-This tool will check your email list from a txt file and verify which emails are registered with Outlook and which are not. This tool supports multithreading for fast checking.
+## Overview
 
-## Features
+This tool checks a list of Outlook email addresses from a text file to determine which emails are registered and exist with Outlook domains. It supports all Outlook domains for various countries.
 
-1. **Support Multithreading**: Faster verification with multithreading.
-2. **Support All Outlook Domains**: Checks emails across all Outlook domains (e.g., @outlook.com, @outlook.fr, @outlook.jp and all the country).
-3. **Fast Checking**: Quickly checks emails in your list.
-4. **Accurate Results**: Ensures precise verification.
+### Supported Countries and Outlook Domains
 
-## Usage
-
-1. **Prepare Your Email List**: Create a text file with the emails you want to check. Each email should be on a new line.
-2. **Run the Tool**: Use the tool to check the list. The results will indicate which emails are registered with Outlook.
+- United States: outlook.com
+- United Kingdom: outlook.com
+- Canada: outlook.com
+- France: outlook.fr
+- Germany: outlook.de
+- Italy: outlook.it
+- Spain: outlook.es
+- Australia: outlook.com
+- Netherlands: outlook.nl
+- Belgium: outlook.be
+- Switzerland: outlook.ch
+- Austria: outlook.at
+- Sweden: outlook.se
+- Denmark: outlook.dk
+- Norway: outlook.no
+- Finland: outlook.fi
+- Portugal: outlook.pt
+- Greece: outlook.gr
+- Ireland: outlook.ie
+- Poland: outlook.pl
+- Russia: outlook.ru
+- Turkey: outlook.com.tr
+- Brazil: outlook.com.br
+- Mexico: outlook.com.mx
+- Argentina: outlook.com.ar
+- Chile: outlook.cl
+- India: outlook.co.in
+- Japan: outlook.co.jp
+- China: outlook.cn
+- South Korea: outlook.co.kr
+- Taiwan: outlook.com.tw
+- Hong Kong: outlook.com.hk
+- New Zealand: outlook.co.nz
 
 ## Contact
 
-If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21).
-
-**Please do not contact me if you are not serious about purchasing.**
-
-Thank you!
+If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21). Time wasters will be banned immediately.
