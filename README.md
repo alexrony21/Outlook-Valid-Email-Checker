@@ -1,8 +1,6 @@
 # Outlook Valid Email Checker
 
-## Overview
-
-This tool checks a list of Outlook email addresses from a text file to determine which emails are registered and exist with Outlook domains. It supports all Outlook domains for various countries.
+![Area Code Database](https://raw.githubusercontent.com/alexrony21/Outlook-Valid-Email-Checker/main/Outlook_Valid_Email_Checker.png)
 
 ### Supported Countries and Outlook Domains
 
