@@ -1,6 +1,6 @@
 # Outlook Valid Email Checker
 
-![Area Code Database](https://raw.githubusercontent.com/alexrony21/Outlook-Valid-Email-Checker/main/Outlook_Valid_Email_Checker.png)
+![Image](https://raw.githubusercontent.com/thepythoncode97/Outlook-Valid-Email-Checker/main/Outlook_Valid_Email_Checker.png)
 
 ### Supported Countries and Outlook Domains
 
@@ -40,4 +40,7 @@
 
 ## Contact
 
-If you want to buy this tool, contact me via Telegram [@alexrony21](https://t.me/alexrony21). Time wasters will be banned immediately.
+If you want to buy this tool, contact me via Telegram: [@thepythoncode97](https://t.me/thepythoncode97)
+
+## Note:
+This tool is designed for marketers and businesses. If you engage in any illegal activities using this tool, the author will not take any responsibility.
